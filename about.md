@@ -1,0 +1,1 @@
+Crazy Menu is an intentionally goofy Geometry Dash menu with silly categories and ridiculous stats. Open it using Alt + Grave (`).

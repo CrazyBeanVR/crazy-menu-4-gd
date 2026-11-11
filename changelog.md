@@ -1,0 +1,1 @@
+## v1.0.0\n- First version of Crazy Menu.
